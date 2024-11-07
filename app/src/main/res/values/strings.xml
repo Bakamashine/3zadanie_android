@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">3zad</string>
+    <string name="text_name">имя</string>
+    <string name="old">возраст</string>
+    <string name="special">специальность</string>
+    <string name="foto">фото</string>
+    <string name="progect">проект</string>
+    <string name="dost">достижения</string>
+</resources>
